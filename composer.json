@@ -1,0 +1,14 @@
+{
+    "name": "SanderSander/ideal-checkout",
+    "type": "magento-module",
+    "description":"iDeal checkout integration for magento with composer",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }, 
+    "authors":[
+        {
+            "name":"Sander Visser",
+            "email":"themastersleader@hotmail.com"
+        }
+    ]
+}
