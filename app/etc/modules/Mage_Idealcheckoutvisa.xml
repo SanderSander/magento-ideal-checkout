@@ -1,0 +1,12 @@
+<config>
+	<modules>
+		<Mage_Idealcheckoutvisa>
+			<active>true</active>
+			<codePool>community</codePool>
+			<depends>
+				<Mage_Payment/>
+			</depends>
+			<version>1.4.0</version>
+		</Mage_Idealcheckoutvisa>
+	</modules>
+</config>
