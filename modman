@@ -2,4 +2,48 @@
 # see https://github.com/colinmollenhour/modman/ for more info
 # author: Sander Visser
 
-app/code/community/Mage/Idealcheckoutafterpay/          app/code/community/Mage/Idealcheckoutafterpay/
+idealcheckout idealcheckout
+
+app/code/community/Mage/Idealcheckoutafterpay/          	app/code/community/Mage/Idealcheckoutafterpay/
+app/code/community/Mage/Idealcheckoutauthorizedtransfer/    app/code/community/Mage/Idealcheckoutauthorizedtransfer/
+app/code/community/Mage/Idealcheckoutcartebleue/          	app/code/community/Mage/Idealcheckoutcartebleue/
+app/code/community/Mage/Idealcheckoutclickandbuy/          	app/code/community/Mage/Idealcheckoutclickandbuy/
+app/code/community/Mage/Idealcheckoutcreditcard/          	app/code/community/Mage/Idealcheckoutcreditcard/
+app/code/community/Mage/Idealcheckoutdirectebanking/        app/code/community/Mage/Idealcheckoutdirectebanking/
+app/code/community/Mage/Idealcheckoutebon/          		app/code/community/Mage/Idealcheckoutebon/
+app/code/community/Mage/Idealcheckoutfasterpay/          	app/code/community/Mage/Idealcheckoutfasterpay/
+app/code/community/Mage/Idealcheckoutgiropay/          		app/code/community/Mage/Idealcheckoutgiropay/
+app/code/community/Mage/Idealcheckoutideal/          		app/code/community/Mage/Idealcheckoutideal/
+app/code/community/Mage/Idealcheckoutmaestro/          		app/code/community/Mage/Idealcheckoutmaestro/
+app/code/community/Mage/Idealcheckoutmanualtransfer/        app/code/community/Mage/Idealcheckoutmanualtransfer/
+app/code/community/Mage/Idealcheckoutmastercard/          	app/code/community/Mage/Idealcheckoutmastercard/
+app/code/community/Mage/Idealcheckoutminitix/          		app/code/community/Mage/Idealcheckoutminitix/
+app/code/community/Mage/Idealcheckoutmistercash/          	app/code/community/Mage/Idealcheckoutmistercash/
+app/code/community/Mage/Idealcheckoutpaypal/          		app/code/community/Mage/Idealcheckoutpaypal/
+app/code/community/Mage/Idealcheckoutpaysafecard/          	app/code/community/Mage/Idealcheckoutpaysafecard/
+app/code/community/Mage/Idealcheckoutpostepay/          	app/code/community/Mage/Idealcheckoutpostepay/
+app/code/community/Mage/Idealcheckoutvisa/          		app/code/community/Mage/Idealcheckoutvisa/
+app/code/community/Mage/Idealcheckoutvpay/          		app/code/community/Mage/Idealcheckoutvpay/
+app/code/community/Mage/Idealcheckoutwebshopgiftcard/       app/code/community/Mage/Idealcheckoutwebshopgiftcard/
+
+app/etc/modules/Mage/Idealcheckoutafterpay.xml         		app/etc/modules/Mage/Idealcheckoutafterpay.xml
+app/etc/modules/Mage/Idealcheckoutauthorizedtransfer.xml  	app/etc/modules/Mage/Idealcheckoutauthorizedtransfer.xml
+app/etc/modules/Mage/Idealcheckoutcartebleue.xml         	app/etc/modules/Mage/Idealcheckoutcartebleue.xml
+app/etc/modules/Mage/Idealcheckoutclickandbuy.xml         	app/etc/modules/Mage/Idealcheckoutclickandbuy.xml
+app/etc/modules/Mage/Idealcheckoutcreditcard.xml         	app/etc/modules/Mage/Idealcheckoutcreditcard.xml
+app/etc/modules/Mage/Idealcheckoutdirectebanking.xml      	app/etc/modules/Mage/Idealcheckoutdirectebanking.xml
+app/etc/modules/Mage/Idealcheckoutebon.xml         			app/etc/modules/Mage/Idealcheckoutebon.xml
+app/etc/modules/Mage/Idealcheckoutfasterpay.xml         	app/etc/modules/Mage/Idealcheckoutfasterpay.xml
+app/etc/modules/Mage/Idealcheckoutgiropay.xml         		app/etc/modules/Mage/Idealcheckoutgiropay.xml
+app/etc/modules/Mage/Idealcheckoutideal.xml         		app/etc/modules/Mage/Idealcheckoutideal.xml
+app/etc/modules/Mage/Idealcheckoutmaestro.xml         		app/etc/modules/Mage/Idealcheckoutmaestro.xml
+app/etc/modules/Mage/Idealcheckoutmanualtransfer.xml      	app/etc/modules/Mage/Idealcheckoutmanualtransfer.xml
+app/etc/modules/Mage/Idealcheckoutmastercard.xml         	app/etc/modules/Mage/Idealcheckoutmastercard.xml
+app/etc/modules/Mage/Idealcheckoutminitix.xml         		app/etc/modules/Mage/Idealcheckoutminitix.xml
+app/etc/modules/Mage/Idealcheckoutmistercash.xml         	app/etc/modules/Mage/Idealcheckoutmistercash.xml
+app/etc/modules/Mage/Idealcheckoutpaypal.xml         		app/etc/modules/Mage/Idealcheckoutpaypal.xml
+app/etc/modules/Mage/Idealcheckoutpaysafecard.xml         	app/etc/modules/Mage/Idealcheckoutpaysafecard.xml
+app/etc/modules/Mage/Idealcheckoutpostepay.xml         		app/etc/modules/Mage/Idealcheckoutpostepay.xml
+app/etc/modules/Mage/Idealcheckoutvisa.xml         			app/etc/modules/Mage/Idealcheckoutvisa.xml
+app/etc/modules/Mage/Idealcheckoutvpay.xml         			app/etc/modules/Mage/Idealcheckoutvpay.xml
+app/etc/modules/Mage/Idealcheckoutwebshopgiftcard.xml     	app/etc/modules/Mage/Idealcheckoutwebshopgiftcard.xml
