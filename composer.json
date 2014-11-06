@@ -1,5 +1,5 @@
 {
-    "name": "SanderSander/ideal-checkout",
+    "name": "sandersander/ideal-checkout",
     "type": "magento-module",
     "description":"iDeal checkout integration for magento with composer",
     "require": {
