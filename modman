@@ -1,0 +1,5 @@
+# iDeal checkout for magento
+# see https://github.com/colinmollenhour/modman/ for more info
+# author: Sander Visser
+
+app/code/community/Mage/Idealcheckoutafterpay/          app/code/community/Mage/Idealcheckoutafterpay/
