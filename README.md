@@ -16,7 +16,7 @@ Place this in your composor.json for a clean install
         ],
         "require": {
             "magento/core": "1.9.0.1",
-            "sandersander/magento-ideal-checkout": "1.0"
+            "sandersander/magento-ideal-checkout": "1.0.0"
         }
     }
 
