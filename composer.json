@@ -1,7 +1,7 @@
 {
     "name": "sandersander/magento-ideal-checkout",
     "type": "magento-module",
-    "license":"GPL-3.0",
+    "license":"MIT",
     "description":"iDeal checkout integration for magento with composer",
     "require": {
         "magento-hackathon/magento-composer-installer": "*"
