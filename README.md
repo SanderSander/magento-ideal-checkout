@@ -8,10 +8,6 @@ Place this in your composor.json for a clean install
             {
                 "type": "composer",
                 "url": "http://packages.firegento.com"
-            },
-            {
-                "type": "vcs",
-                "url": "https://github.com/SanderSander/magento-ideal-checkout.git"
             }
         ],
         "require": {
